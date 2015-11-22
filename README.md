@@ -22,8 +22,9 @@ Industry Experience
 
 Publication
 -----------
-### Sentiment Analysis of Twitter Feeds
-Y Garg, N Chatterjee - Big Data Analytics, 2014 - LNCS 8883, pp 33-52 - Springer
+* Sentiment Analysis of Twitter Feeds
+
+  Y Garg, N Chatterjee - Big Data Analytics, 2014 - LNCS 8883, pp 33-52 - Springer
 
 Projects
 --------
