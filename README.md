@@ -1,13 +1,17 @@
 Yogesh Garg
 ===========
+[github](https://github.com/yogeshg) |
 [linkedin](https://in.linkedin.com/in/yogeshgarg1)
 
 Academic Record
 ---------------
-### 5-year integrated (B.Tech. + M.Tech.) in Mathematics and Computing
-Indian Institute of Technology - Delhi
-### Exchange Student
-KTH, Royal Institute of Technology, Stockholm
+* 5-year integrated (B.Tech. + M.Tech.) in Mathematics and Computing
+
+  Indian Institute of Technology - Delhi
+
+* Exchange Student
+
+  KTH, Royal Institute of Technology, Stockholm
 
 Industry Experience
 -------------------
