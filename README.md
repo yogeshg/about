@@ -3,31 +3,33 @@ Yogesh Garg
 [github](https://github.com/yogeshg) |
 [linkedin](https://in.linkedin.com/in/yogeshgarg1)
 
-Academic Record
----------------
-* 5-year integrated (B.Tech. + M.Tech.) in Mathematics and Computing
+Education
+---------
 
-  Indian Institute of Technology - Delhi
+ * **[Columbia University](http://www.cs.columbia.edu/)** New York, NY\
+    *M.S. in Computer Science* *Aug, 2016 – Dec, 2017*
+ * **[Indian Institute of Technology,Delhi](http://www.iitd.ac.in)** New Delhi, India\
+    *Integrated Master of Technology in Mathematics and Computing* *July,2009 – July, 2014*
 
-* Exchange Student
-
-  KTH, Royal Institute of Technology, Stockholm
-
-Industry Experience
--------------------
+Professional Experience
+-----------------------
+* AlphaGrep Securities, Trading Systems
 * Deutsche Bank, Product Development, Equity Trading
 * Goldman Sachs, Operations Strats, Summer Intern
 * Oracle, Software Development Intern
 * App Street Software Pvt. Ltd., iOS App Developer
 
-Publication
------------
-* Sentiment Analysis of Twitter Feeds
 
+Research
+--------
+* Sentiment Analysis of Twitter Feeds
   Y Garg, N Chatterjee - Big Data Analytics, 2014 - LNCS 8883, pp 33-52 - Springer
 
 Projects
 --------
+* [Artistic-Styles](https://github.com/yogeshg/artistic-styles)
+* [Qprober](https://github.com/yogeshg/Binger/tree/master/QProber) and
+    [QueryExpander](https://github.com/yogeshg/Binger/tree/master/QueryExpander)
 * [Sentiment Analysis of Twitter Feeds](https://github.com/yogeshg/Twitter-Sentiment)
 * [Describr](https://github.com/yogeshg/DI/tree/master/p3)
 * [Random Speech Generator](https://github.com/yogeshg/SpeechModel)
@@ -36,18 +38,13 @@ Projects
 
 Technical Skills
 ----------------
-[q/kdb+](http://kx.com/), Java (Proficient) |  C++, Python (Intermittent Experience) | Matlab, Slang/SecDB, Weka (Cursory Experience)
+* C++, Python, [q/kdb+](http://kx.com/)
+* Java, Prolog, OCaml, Matlab, Slang/SecDB, Weka
 
-Extra Curricular Activities
+Positions of Responsibility
 ---------------------------
-* Organised and evaluated Regional Mathematical Olympiad, Delhi, 2010
-* Teaching Assistant for Optimisation (Spring 2013), Probability (Fall 2013), and Statistics (Spring 2014)
-
-Hobbies and Interests
----------------------
-* Bassist & Guitarist; Podium finishes in western, fusion, rock genres in intra-university music competitions
-* Organized concert at college fest, featuring international artists, crowd of 5000+ and coverage in Metal Hammer
-* Swimming, Photography, Travelling
-
-![Q.E.D.](http://yogeshg.pythonanywhere.com/static/about/qed.png)
+* Teaching assistant for **[Essential Data Structures in C/C++](http://www.cs.columbia.edu/~jae/3136/)** course at Columbia*2016*
+* Teaching assistant for **Statistics**, **Probability** and **Optimization** courses at IIT Delhi*2013–14*
+* Worked with coordinator to organize **Regional Mathematical Olympiad**, Delhi region*2010*
+* **Organized a concert** with international artists, crowd of 5K+, coverage in Metal Hammer*2012*
 
